@@ -1,0 +1,15 @@
+/eclipselink-dbws-sxf_1.0.xsd
+/eclipselink-dbws_1.0.xsd
+/eclipselink-dbws_1.1.xsd
+/eclipselink_orm_2_5.xsd
+/eclipselink_oxm_2_5.xsd
+/eclipselink_persistence_map_1.0.xsd
+/eclipselink_persistence_map_2.3.xsd
+/eclipselink_sessions_2.1.xsd
+/orm_1_0.xsd
+/orm_2_0.xsd
+/orm_2_1.xsd
+/persistence_1_0.xsd
+/persistence_2_0.xsd
+/persistence_2_1.xsd
+/toplink-object-persistence_11_1_1.xsd

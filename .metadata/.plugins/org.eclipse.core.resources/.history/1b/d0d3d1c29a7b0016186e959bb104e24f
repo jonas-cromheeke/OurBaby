@@ -1,0 +1,13 @@
+/target/
+*.classpath
+*.settings
+*.launching
+*.install.xml
+*.log
+*.snap
+*.project
+*metadata*
+*.index
+dialog_settings.xml
+*.lock
+/.gitignore
